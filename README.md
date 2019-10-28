@@ -10,6 +10,6 @@ Python based application that copies answers from one form to another
 ### Application GUI 
 ![TK](https://user-images.githubusercontent.com/49911931/67666041-f6a31300-f990-11e9-9178-5a37b825b619.png)
 
-### Otput File Screenshot
+### Output Excel Sheet
 
 ![TK](https://github.com/animesh698/Duplicate_forms/blob/master/AnsForm1.PNG)
